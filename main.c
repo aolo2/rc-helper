@@ -364,5 +364,5 @@ WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nShow
     // find_and_replace_generated();
     // paragraph_generated();
     // image_properties_generated();
-    // wcap_settings_generated();
+    wcap_settings_generated();
 }
